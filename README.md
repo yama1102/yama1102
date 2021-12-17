@@ -10,7 +10,7 @@
 - :computer: Jr. Full-stack Developer, graduated from <a href = "https://www.lewagon.com/">Le Wagon's Coding Bootcamp</a>
 - :chart_with_upwards_trend: I’m currently studying Applied Statistics in PhD program at University of São Paulo
 - :briefcase: I used to work in Corporate Strategy
-- :satisfied: Excited to create a innovative product enjoying AI & BI
+- :satisfied: Excited to create a innovative products enjoying AI & BI
 
 #### Languages and Tools
 <div class="d-flex">
